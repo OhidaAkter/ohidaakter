@@ -45,12 +45,6 @@ I love to **help people learn**, and I see technology as a bridge to make that p
 
 ---
 
-### 📊 GitHub Stats
-
-![Ohida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhidaAkter&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OhidaAkter&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Connect With Me
 
