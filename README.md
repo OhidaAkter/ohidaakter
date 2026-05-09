@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ohida Akter</h1>
-<h3 align="center">CS Student | AI & Security Researcher | Open Source Contributor</h3>
+<h3 align="center">CS Student | AI & Security | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OhidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,14 +7,19 @@
 
 ---
 
-### 🔭 About Me
+## 🧭 About Me
 
-- 🎓 Computer Science student based in **Dhaka, Bangladesh**
-- 🔬 Research interests: **AI · Cybersecurity · Health Tech · Education Technology**
-- 🐍 Currently building projects in **Python** (ML, NLP, Agents)
-- 🌱 Learning: **LangChain, LLMs, AI Agents, Deep Learning**
-- 🤝 Open to **collaborating** on AI, security, or EdTech open source projects
-- 💬 Ask me about **Python, Machine Learning, NLP**
+I'm a Computer Science student, working toward a research career at the intersection of **Artificial Intelligence, Cybersecurity, Health Technology, and Education**.
+
+I believe AI should be more powerful to help people and make life better — but not replace humans.
+I love to **help people learn**, and I see technology as a bridge to make that possible for everyone.
+
+- 🔬 **Research Interests:** AI for Healthcare · Privacy-Preserving ML · Cybersecurity · Intelligent Learning Systems
+- 🐍 **Currently building:** Python-based AI agents and ML applications
+- 🌱 **Currently learning:** LLMs · LangChain · Federated Learning · Deep Learning
+- 📖 **Goal:** PhD research in AI applied to Security, Health, or Education
+- 🤝 **Open to:** Collaborating on open source AI, security, or EdTech projects
+- 💬 **Ask me about:** AI research ideas, Python, ML, or anything you're trying to learn
 
 ---
 
@@ -49,5 +54,5 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ohidaakter24/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact.ohida@gmail.com)
